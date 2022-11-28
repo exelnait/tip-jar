@@ -1,6 +1,6 @@
 ## Crypto Tips Jar
 
-#### Small Application to collect tips on Ethereum Blockchain
+#### A tiny application for collecting tips on the Ethereum blockchain.
 
 ![Main Screen](images/main.png)
 ![Withdraw Screen](images/withdraw.png)
